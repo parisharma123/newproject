@@ -1,2 +1,2 @@
 # newproject
-this is my repositary
+this is my repository
